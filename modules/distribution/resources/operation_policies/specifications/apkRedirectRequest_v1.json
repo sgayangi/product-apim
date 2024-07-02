@@ -1,6 +1,6 @@
 {
     "category": "Mediation",
-    "name": "ccRedirectRequest",
+    "name": "apkRedirectRequest",
     "version": "v1",
     "displayName": "Redirect Request",
     "description": "This policy allows you to redirect a request",
